@@ -3,7 +3,7 @@
 ## ISPC. Instituto Superior Politécnico Córdoba.
 
 
-### Tecnicatura en Innovación con Tecnologías 4.0.
+### Tecnicatura Superior en Innovación con Tecnologías 4.0.
  
 - Hugo Orlando Benitez  :student: 
 
